@@ -1,4 +1,4 @@
-# Java Exercises
+# Java Learning
 
 Exercícios desenvolvidos no ensino médio durante os primeiros contatos com programação em Java.
 
