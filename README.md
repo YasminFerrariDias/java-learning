@@ -26,3 +26,5 @@ java NomeDoArquivo
 ```
 
 > Arquivos que utilizam `JOptionPane` requerem ambiente com interface gráfica.
+>
+> Desenvolvido por **Yasmin Ferrari Dias** 🚀
